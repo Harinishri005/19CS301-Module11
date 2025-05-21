@@ -19,6 +19,8 @@ STEP 5 : Print the result.
 STEP 6 : Stop.
 
 ### Program:
+### Name:Harinishri S
+### Reg No:212223090008
 ```
 class Node:
             def     __init__ (self, data):
